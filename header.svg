@@ -72,7 +72,7 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
+					
 				}
 
 				p {
@@ -82,7 +82,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+				<h1>Automation Data Maths Network Synth &amp; CSS<br/>ADMNS</h1>
 				<p>Whitepaper</p>
 			</div>
 		</div>
