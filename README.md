@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+		<img src="header.svg" width="800" height="400" alt="Whitepaper">
 	</a>
 	<br>
 </div>
@@ -12,5 +12,4 @@
   <link rel="stylesheet" href="./style.css">
 
 </head>
-<html lang="en" >
-  <h1>HEllo</h1>
+
